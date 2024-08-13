@@ -6,7 +6,6 @@ body {
 
 .exp-header {
   text-transform: uppercase; 
-  text-align: center;
   border-top: solid;
   border-bottom: solid;
   color: #7CB9E8
@@ -19,14 +18,12 @@ body {
 }
 .experience-details {
   color: #0066B2;
-  text-align: center;
   margin-bottom: 2%;
 }
 
 .Education {
   
   text-transform: uppercase; 
-  text-align: center;
   border-top: solid;
   border-bottom: solid;
   color: #7CB9E8
@@ -34,5 +31,4 @@ body {
 
 .education-details{
    color: #0066B2;
-  text-align: center;
 }
