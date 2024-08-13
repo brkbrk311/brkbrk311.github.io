@@ -6,8 +6,7 @@ body {
 }
 
 .exp-header {
-  text-transform: uppercase;
-  font-family: Arial, Times New Roman, Verdana;
+  text-transform: uppercase; 
   text-align: center;
   border-top: solid;
   border-bottom: solid;
@@ -16,14 +15,12 @@ body {
 
 .title {
   text-align: center;
-  font-family: Arial, Times New Roman, Verdana;
   color: #0066B2;
 
 }
 .experience-details {
   color: #0066B2;
   text-align: center;
-  font-family: Arial, Times New Roman, Verdana;
 }
 
 .Education {
