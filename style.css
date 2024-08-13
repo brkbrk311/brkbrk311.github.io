@@ -1,1 +1,39 @@
 
+body {
+  
+ background-color: #FFFDD0;
+ font-family: Arial, Times New Roman, Verdana;
+ margin: 5% 10% 
+}
+
+.exp-header {
+  text-transform: uppercase; 
+  text-align: center;
+  border-top: solid;
+  border-bottom: solid;
+  color: #7CB9E8
+}
+
+.title {
+  text-align: center;
+  color: #0066B2;
+
+}
+.experience-details {
+  color: #0066B2;
+  text-align: center;
+}
+
+.Education {
+  
+  text-transform: uppercase; 
+  text-align: center;
+  border-top: solid;
+  border-bottom: solid;
+  color: #7CB9E8
+}
+
+.education-details{
+   color: #0066B2;
+  text-align: center;
+}
